@@ -1,6 +1,12 @@
-# Gestão de Tarefas — API Profissional
+# 📋 Gestão de Tarefas (TaskFlow)
 
 API RESTful de gestão de tarefas e projetos com documentação Swagger completa.
+
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?logo=mongodb&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?logo=swagger&logoColor=black)
+![JWT](https://img.shields.io/badge/Auth-JWT-000000?logo=jsonwebtokens&logoColor=white)
 
 ## Tecnologias
 
@@ -66,4 +72,4 @@ npm run dev
 
 ## Autor
 
-Luther — [GitHub](https://github.com/Luthercode)
+**Anthony "Luther"** — [GitHub](https://github.com/Luthercode)
